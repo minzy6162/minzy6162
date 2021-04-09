@@ -46,4 +46,6 @@ Tool
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2019s37@e-mirim.hs.kr)](mailto:s2019s37@e-mirim.hs.kr) s2019s37@e-mirim.hs.kr
 
-           
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minzy6162)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minzy6162&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
