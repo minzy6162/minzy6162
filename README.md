@@ -46,7 +46,7 @@ Tool
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s2019s37@e-mirim.hs.kr)](mailto:s2019s37@e-mirim.hs.kr) s2019s37@e-mirim.hs.kr
 
-
+Portfolio :
 [Portfolio_MinJungChoi.pdf](https://github.com/minzy6162/minzy6162/files/6331979/Portfolio_MinJungChoi.pdf)
 
 
